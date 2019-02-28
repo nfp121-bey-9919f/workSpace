@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CompteurInstance
+comment0.text=\r\n\ une\ classe\ de\ nom\ \u201CCompteurInstance\u201D\ qui\ contient\ une\ m\u00E9thode\ qui\ retourne\r\n\ le\ nombre\ d\u2019instances\ de\ la\ classe\ \u00E0\ tout\ moment\ d\u2019une\ session\ Java.\r\n\r\n\ @author\ (Elie\ Keserwany)\r\n\ @version\ (28-02-2019-01)\r\n
+comment1.params=
+comment1.target=CompteurInstance()
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ CompteurInstance\r\n
+comment2.params=
+comment2.target=int\ voirNbInstances()
+comment3.params=
+comment3.target=int\ statVoirNbInstances()
+numComments=4
