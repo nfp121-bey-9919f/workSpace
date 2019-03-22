@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Nombre
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Nombre\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Nombre()
+comment2.params=n
+comment2.target=Nombre(int)
+comment3.params=
+comment3.target=int\ eval()
+comment4.params=
+comment4.target=int\ getN()
+comment4.text=\r\n\ @return\ the\ n\r\n
+comment5.params=n
+comment5.target=void\ setN(int)
+comment5.text=\r\n\ @param\ n\ the\ n\ to\ set\r\n
+numComments=6
