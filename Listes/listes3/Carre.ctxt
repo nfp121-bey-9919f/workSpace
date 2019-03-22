@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Carre
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Carre\ ici.\r\n\ \r\n\ @author\ (votre\ nom)\ \r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=cote\ coul
+comment1.target=Carre(int,\ java.awt.Color)
+comment2.params=coul\ cote
+comment2.target=Carre(java.awt.Color,\ int)
+comment3.params=
+comment3.target=int\ getCote()
+comment4.params=
+comment4.target=java.awt.Color\ getCouleur()
+comment5.params=c
+comment5.target=void\ setCouleur(java.awt.Color)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=oo
+comment7.target=boolean\ equals(java.lang.Object)
+numComments=8
